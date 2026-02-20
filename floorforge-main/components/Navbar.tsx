@@ -31,7 +31,7 @@ const Navbar = () => {
                         <Box  className="logo" />
 
                         <span className="name">
-                            Roomify
+                            FloorForge-AI
                         </span>
                     </div>
 

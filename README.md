@@ -2,9 +2,11 @@
 AI-POWERED 2D TO 3D ARCHITECTURAL VISUALIZATION SAAS 
 
 ✨ Introduction
+
 AI-powered architectural visualization SaaS built with React, TypeScript, and Puter. Use AI models from Claude to Gemini to transform 2D floor plans into photorealistic 3D renders with permanent hosting and persistent metadata. This project features 2D-to-3D photorealistic rendering, serverless workers, high-performance KV storage, and a global community feed.
 
 ⚙️ Tech Stack
+
 React is a popular JavaScript library for building user interfaces, specifically for creating single-page applications with a component-based architecture.
 
 Vite is a next-generation frontend tool that provides an extremely fast development environment and optimized build process for modern web projects.
@@ -25,6 +27,7 @@ Claude and Gemini are state-of-the-art large language models used to power the a
 
 
 🔋 Features
+
 👉 2D-to-3D Visualization: Instant architectural rendering that transforms flat floor plans into photorealistic 3D models using state-of-the-art AI.
 
 👉 Persistent Media Hosting: Permanent file storage that generates public URLs for every upload and output, ensuring your renders are always accessible.
